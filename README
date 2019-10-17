@@ -1,0 +1,5 @@
+To change the url for the origin:
+git remote set-url origin new_forked_repo_url
+
+To get up to date with the forked repo:
+git remote add upstream original_forked_repo_url
