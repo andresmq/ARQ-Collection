@@ -6,3 +6,5 @@ git remote add upstream original_forked_repo_url
 
 To pull all changes from upstream:
 git pull upstream master
+
+--
